@@ -7,3 +7,6 @@ ICanHazShortcut
 Cli apps
 BluetoothConnector
 - great for connecting headphones
+
+Spectable
+- quickly snap windows into place on screen
