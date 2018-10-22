@@ -8,5 +8,8 @@ Cli apps
 BluetoothConnector
 - great for connecting headphones
 
-Spectable
+Spectacle (https://www.spectacleapp.com/)
 - quickly snap windows into place on screen
+
+Stay (https://cordlessdog.com/stay/)
+- save and restore positions of your windows, even across multiple monitors
